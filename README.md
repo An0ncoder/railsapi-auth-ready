@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic REST API based on Rails 5 and Docker based on the scotch.io howto: 
 
-Things you may want to cover:
+https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-two
 
-* Ruby version
 
-* System dependencies
+* Sample Project ready to use
 
-* Configuration
+* User authentication with JWT
 
-* Database creation
+* PostgreSQL included as a docker container
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Just run "docker-compose up" and get started
